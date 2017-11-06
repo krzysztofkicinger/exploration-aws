@@ -1,0 +1,22 @@
+{
+  "name": "lambdas-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.73.0"
+  },
+  "devDependencies": {
+    "aws-lambda-mock-context": "^3.1.1",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "selenium-standalone": "^6.5.0",
+    "should": "^11.2.1",
+    "webdriverio": "^4.8.0"
+  }
+}
